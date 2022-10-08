@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gabriel Ulloa</h1>
 <h3 align="center">I am an advanced electronic engineering student, about to get my degree. Currently redirecting my professional career as a full-stack javascript developer.</h3>
 
-- 🔭 I’m currently following the curriculum at [The Oding Project](https://www.theodinproject.com/)
+- 🔭 I’m currently following the curriculum at [The Odin Project](https://www.theodinproject.com/)
 
 - 📫 How to reach me **ulloasaavedragabriel@gmail.com**
 
