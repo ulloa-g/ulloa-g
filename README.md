@@ -12,12 +12,12 @@ I've strengthened my expertise through platforms like **Udemy and DataCamp**, ga
 
 ### 🛠️ Tech Stack & Skills
 
-🔹 **Programming**: Python, SQL  
-🔹 **Data Processing**: Pandas, Spark  
-🔹 **ETL & Workflow Orchestration**: Airflow  
-🔹 **Cloud & DevOps**: AWS/GCP, Docker  
-🔹 **Database & Query Optimization**: PostgreSQL, MySQL  
-🔹 **Other**: Git, Linux, Bash  
+🔹 **Programming**: `Python, SQL`  
+🔹 **Data Processing**: `Pandas, Spark`  
+🔹 **ETL & Workflow Orchestration**: `Airflow`  
+🔹 **Cloud & DevOps**: `AWS/GCP, Docker`  
+🔹 **Database & Query Optimization**: `PostgreSQL, MySQL`  
+🔹 **Other**: `Git, Linux, Bash`  
 
 ---
 
