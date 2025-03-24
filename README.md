@@ -15,7 +15,7 @@ I've strengthened my expertise through platforms like **Udemy and DataCamp**, ga
 🔹 **Programming**: `Python, SQL`  
 🔹 **Data Processing**: `Pandas, Spark`  
 🔹 **ETL & Workflow Orchestration**: `Airflow`  
-🔹 **Cloud & DevOps**: `AWS/GCP, Docker`  
+🔹 **Cloud & DevOps**: `Azure, Docker`  
 🔹 **Database & Query Optimization**: `PostgreSQL, MySQL`  
 🔹 **Other**: `Git, Linux, Bash`  
 
